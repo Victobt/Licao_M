@@ -2,3 +2,4 @@ Victor	Nota:9,5
 João Carlos Nota:5,6
 Maria Clara	Nota:8,5
 Aline		Nota:7,5
+Cladio	Nota:10
